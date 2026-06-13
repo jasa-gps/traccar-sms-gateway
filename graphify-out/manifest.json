@@ -1,0 +1,702 @@
+{
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/build.gradle.kts": {
+    "mtime": 1781355706.1272173,
+    "ast_hash": "8a04ba490ed4229363273f822b9e08c2",
+    "semantic_hash": "8a04ba490ed4229363273f822b9e08c2"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/google-services.json": {
+    "mtime": 1781355706.127366,
+    "ast_hash": "c4a9067d73531296e6fb3db8c1899b4a",
+    "semantic_hash": "c4a9067d73531296e6fb3db8c1899b4a"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/App.kt": {
+    "mtime": 1781355706.1283538,
+    "ast_hash": "4e5d91d08b3c358eb382686abab236dc",
+    "semantic_hash": "4e5d91d08b3c358eb382686abab236dc"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/ArchivedConversationsActivity.kt": {
+    "mtime": 1781355706.1284747,
+    "ast_hash": "642b5b29c6fc15772d8be1d8cbd33727",
+    "semantic_hash": "642b5b29c6fc15772d8be1d8cbd33727"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/ConversationDetailsActivity.kt": {
+    "mtime": 1781355706.1285741,
+    "ast_hash": "84fe0e6462e66fbe345fe033307e5352",
+    "semantic_hash": "84fe0e6462e66fbe345fe033307e5352"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/MainActivity.kt": {
+    "mtime": 1781355706.1286602,
+    "ast_hash": "5c2bb6f452e791c9da30f2236489ea1a",
+    "semantic_hash": "5c2bb6f452e791c9da30f2236489ea1a"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/ManageBlockedKeywordsActivity.kt": {
+    "mtime": 1781355706.1287696,
+    "ast_hash": "d2a259c90f5d01e8424dc83d81aaef53",
+    "semantic_hash": "d2a259c90f5d01e8424dc83d81aaef53"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/NewConversationActivity.kt": {
+    "mtime": 1781355706.1288457,
+    "ast_hash": "b28be9b7482fd6bd8f21f854c1aaa16f",
+    "semantic_hash": "b28be9b7482fd6bd8f21f854c1aaa16f"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/RecycleBinConversationsActivity.kt": {
+    "mtime": 1781355706.1289248,
+    "ast_hash": "15c154f5164a6e69280d0752087dc909",
+    "semantic_hash": "15c154f5164a6e69280d0752087dc909"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/SettingsActivity.kt": {
+    "mtime": 1781355706.1290083,
+    "ast_hash": "06b33681cffca8f3805cd11b5432a142",
+    "semantic_hash": "06b33681cffca8f3805cd11b5432a142"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/SimpleActivity.kt": {
+    "mtime": 1781355706.1290727,
+    "ast_hash": "43fdbc4a9597eff948bbd0e34fc9d339",
+    "semantic_hash": "43fdbc4a9597eff948bbd0e34fc9d339"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/SplashActivity.kt": {
+    "mtime": 1781355706.1291301,
+    "ast_hash": "6fb217f803e8491defa20ca8712391cd",
+    "semantic_hash": "6fb217f803e8491defa20ca8712391cd"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/ThreadActivity.kt": {
+    "mtime": 1781355706.1292636,
+    "ast_hash": "7e35362214cbf393684c194b895a535d",
+    "semantic_hash": "7e35362214cbf393684c194b895a535d"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/activities/VCardViewerActivity.kt": {
+    "mtime": 1781355706.1293426,
+    "ast_hash": "a04386af33ec0352506797f66b63ff49",
+    "semantic_hash": "a04386af33ec0352506797f66b63ff49"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/adapters/ArchivedConversationsAdapter.kt": {
+    "mtime": 1781355706.1294463,
+    "ast_hash": "e5bff789b79ced15ab3d8adf932c5855",
+    "semantic_hash": "e5bff789b79ced15ab3d8adf932c5855"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/adapters/AttachmentsAdapter.kt": {
+    "mtime": 1781355706.129526,
+    "ast_hash": "d00a844e2d09ad6b64711f629008e0a8",
+    "semantic_hash": "d00a844e2d09ad6b64711f629008e0a8"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/adapters/AutoCompleteTextViewAdapter.kt": {
+    "mtime": 1781355706.12958,
+    "ast_hash": "748ee3b0f9d72a5833cb52bcfde06d68",
+    "semantic_hash": "748ee3b0f9d72a5833cb52bcfde06d68"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/adapters/BaseConversationsAdapter.kt": {
+    "mtime": 1781355706.1296551,
+    "ast_hash": "d3544957056a5aec58f2c3475372f01c",
+    "semantic_hash": "d3544957056a5aec58f2c3475372f01c"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/adapters/ContactsAdapter.kt": {
+    "mtime": 1781355706.1297114,
+    "ast_hash": "f0616d6ef8335ccd881063e57b1a0ec0",
+    "semantic_hash": "f0616d6ef8335ccd881063e57b1a0ec0"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/adapters/ConversationsAdapter.kt": {
+    "mtime": 1781355706.1297848,
+    "ast_hash": "7dadfa099f08a647f61b0cdb068ae0c5",
+    "semantic_hash": "7dadfa099f08a647f61b0cdb068ae0c5"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/adapters/RecycleBinConversationsAdapter.kt": {
+    "mtime": 1781355706.1298351,
+    "ast_hash": "9c083b46f4052fbb808a28eb79771f53",
+    "semantic_hash": "9c083b46f4052fbb808a28eb79771f53"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/adapters/SearchResultsAdapter.kt": {
+    "mtime": 1781355706.129882,
+    "ast_hash": "918984cd9dbb37195b8a195e2308bef4",
+    "semantic_hash": "918984cd9dbb37195b8a195e2308bef4"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/adapters/ThreadAdapter.kt": {
+    "mtime": 1781355706.1299577,
+    "ast_hash": "0bf5d2356e8b541aba3bad24a9fd4e33",
+    "semantic_hash": "0bf5d2356e8b541aba3bad24a9fd4e33"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/adapters/VCardViewerAdapter.kt": {
+    "mtime": 1781355706.130059,
+    "ast_hash": "f505843b69742ef04ead88f8784e9d2a",
+    "semantic_hash": "f505843b69742ef04ead88f8784e9d2a"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/databases/MessagesDatabase.kt": {
+    "mtime": 1781355706.1301775,
+    "ast_hash": "c0dcac74d1e75f7bbcef7ffb2bc9e843",
+    "semantic_hash": "c0dcac74d1e75f7bbcef7ffb2bc9e843"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/AddBlockedKeywordDialog.kt": {
+    "mtime": 1781355706.1302676,
+    "ast_hash": "297253bc5bb562af01435a8efd5769c3",
+    "semantic_hash": "297253bc5bb562af01435a8efd5769c3"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/DeleteConfirmationDialog.kt": {
+    "mtime": 1781355706.1303387,
+    "ast_hash": "d7e96bc791c90c38231a45f651c42777",
+    "semantic_hash": "d7e96bc791c90c38231a45f651c42777"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/ExportBlockedKeywordsDialog.kt": {
+    "mtime": 1781355706.13039,
+    "ast_hash": "414094e854bbff55b0203d74ca53b494",
+    "semantic_hash": "414094e854bbff55b0203d74ca53b494"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/ExportMessagesDialog.kt": {
+    "mtime": 1781355706.130461,
+    "ast_hash": "a36aadab9b5ffc5c807ec55de37844ca",
+    "semantic_hash": "a36aadab9b5ffc5c807ec55de37844ca"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/ImportMessagesDialog.kt": {
+    "mtime": 1781355706.1305068,
+    "ast_hash": "057dcfe845f57f010664c3cc32756f06",
+    "semantic_hash": "057dcfe845f57f010664c3cc32756f06"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/InvalidNumberDialog.kt": {
+    "mtime": 1781355706.1305702,
+    "ast_hash": "9bf5b2eb5e8b4b852d6e83d029354176",
+    "semantic_hash": "9bf5b2eb5e8b4b852d6e83d029354176"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/ManageBlockedKeywordsAdapter.kt": {
+    "mtime": 1781355706.1306593,
+    "ast_hash": "657d46978a61a66440f45f885cdec63e",
+    "semantic_hash": "657d46978a61a66440f45f885cdec63e"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/MessageDetailsDialog.kt": {
+    "mtime": 1781355706.1307223,
+    "ast_hash": "67637589073c8338920d57c01d885a83",
+    "semantic_hash": "67637589073c8338920d57c01d885a83"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/RenameConversationDialog.kt": {
+    "mtime": 1781355706.1307704,
+    "ast_hash": "c2add19d14e7a758e476b71a3203e380",
+    "semantic_hash": "c2add19d14e7a758e476b71a3203e380"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/ScheduleMessageDialog.kt": {
+    "mtime": 1781355706.1308591,
+    "ast_hash": "06b0c5d169d934189ec83ea87760317a",
+    "semantic_hash": "06b0c5d169d934189ec83ea87760317a"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/dialogs/SelectTextDialog.kt": {
+    "mtime": 1781355706.1309268,
+    "ast_hash": "cd73230a633e564de24ea2fcbccf55b8",
+    "semantic_hash": "cd73230a633e564de24ea2fcbccf55b8"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/Activity.kt": {
+    "mtime": 1781355706.131067,
+    "ast_hash": "770d035f7830c71bfc0c97c2494a023b",
+    "semantic_hash": "770d035f7830c71bfc0c97c2494a023b"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/Bitmap.kt": {
+    "mtime": 1781355706.1311123,
+    "ast_hash": "1b69c6ee4d985f99b1e3dcbaeba69362",
+    "semantic_hash": "1b69c6ee4d985f99b1e3dcbaeba69362"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/Collections.kt": {
+    "mtime": 1781355706.1311517,
+    "ast_hash": "c21717f53d4dd2c63fed5df9a25cc986",
+    "semantic_hash": "c21717f53d4dd2c63fed5df9a25cc986"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/Context.kt": {
+    "mtime": 1781355706.1312263,
+    "ast_hash": "e62faa4718922c40245e6e22294dce7c",
+    "semantic_hash": "e62faa4718922c40245e6e22294dce7c"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/Cursor.kt": {
+    "mtime": 1781355706.1312716,
+    "ast_hash": "cbf99c80a5d21c49772bb9ab741b1dd3",
+    "semantic_hash": "cbf99c80a5d21c49772bb9ab741b1dd3"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/Math.kt": {
+    "mtime": 1781355706.1313155,
+    "ast_hash": "28930c3b76e282ac8324ff8a44fd410e",
+    "semantic_hash": "28930c3b76e282ac8324ff8a44fd410e"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/RecyclerView.kt": {
+    "mtime": 1781355706.131359,
+    "ast_hash": "3f47bbe236d77d31c8fcd9fda5a727be",
+    "semantic_hash": "3f47bbe236d77d31c8fcd9fda5a727be"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/SimpleContact.kt": {
+    "mtime": 1781355706.1314008,
+    "ast_hash": "055ff5f824f170c5d24df013d81d245d",
+    "semantic_hash": "055ff5f824f170c5d24df013d81d245d"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/String.kt": {
+    "mtime": 1781355706.1314414,
+    "ast_hash": "f07dcc9304761d82bc732d8e03068db7",
+    "semantic_hash": "f07dcc9304761d82bc732d8e03068db7"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/Temporal.kt": {
+    "mtime": 1781355706.131481,
+    "ast_hash": "72471cde3ec94008073cda10d9483ae0",
+    "semantic_hash": "72471cde3ec94008073cda10d9483ae0"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/View.kt": {
+    "mtime": 1781355706.131526,
+    "ast_hash": "1f4e178a55ad44e199ac29f25cde264d",
+    "semantic_hash": "1f4e178a55ad44e199ac29f25cde264d"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/gson/Gson.kt": {
+    "mtime": 1781355706.1316075,
+    "ast_hash": "2f85cf61aafef6027db34ac47f747822",
+    "semantic_hash": "2f85cf61aafef6027db34ac47f747822"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/gson/JsonElement.kt": {
+    "mtime": 1781355706.1316612,
+    "ast_hash": "5befc6b8f2e23a951083e4407e825bc4",
+    "semantic_hash": "5befc6b8f2e23a951083e4407e825bc4"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/gson/JsonObject.kt": {
+    "mtime": 1781355706.1317112,
+    "ast_hash": "f61cf4911782a32a50838342ad864f17",
+    "semantic_hash": "f61cf4911782a32a50838342ad864f17"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/extensions/gson/MapDeserializerDoubleAsIntFix.kt": {
+    "mtime": 1781355706.1317666,
+    "ast_hash": "84bd27dc6ad26a5ae6e146de27e374d6",
+    "semantic_hash": "84bd27dc6ad26a5ae6e146de27e374d6"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/AttachmentPreviews.kt": {
+    "mtime": 1781355706.1318793,
+    "ast_hash": "751f65da3f4d8317d6516d1c52a02e15",
+    "semantic_hash": "751f65da3f4d8317d6516d1c52a02e15"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/AttachmentUtils.kt": {
+    "mtime": 1781355706.1319351,
+    "ast_hash": "8e465bb16e120e36deef1c61c73f33ba",
+    "semantic_hash": "8e465bb16e120e36deef1c61c73f33ba"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/BlockedKeywordsExporter.kt": {
+    "mtime": 1781355706.1319926,
+    "ast_hash": "b2e971401824152bd77c25e9ff7a1819",
+    "semantic_hash": "b2e971401824152bd77c25e9ff7a1819"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/BlockedKeywordsImporter.kt": {
+    "mtime": 1781355706.1320508,
+    "ast_hash": "5a2d7b4b3393e11990ad78c3572d6a00",
+    "semantic_hash": "5a2d7b4b3393e11990ad78c3572d6a00"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/Config.kt": {
+    "mtime": 1781355706.13214,
+    "ast_hash": "adef740fe85321d51b0e44aed9cf6625",
+    "semantic_hash": "adef740fe85321d51b0e44aed9cf6625"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/Constants.kt": {
+    "mtime": 1781355706.1322365,
+    "ast_hash": "32504de81f57616ef88793797ceacd87",
+    "semantic_hash": "32504de81f57616ef88793797ceacd87"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/Converters.kt": {
+    "mtime": 1781355706.132281,
+    "ast_hash": "db2ef75ae3ecaead22f008b14a96accd",
+    "semantic_hash": "db2ef75ae3ecaead22f008b14a96accd"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/ImageCompressor.kt": {
+    "mtime": 1781355706.1323626,
+    "ast_hash": "4bc6ada83f7943f088dfb053c8e07015",
+    "semantic_hash": "4bc6ada83f7943f088dfb053c8e07015"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/MessagesImporter.kt": {
+    "mtime": 1781355706.1324422,
+    "ast_hash": "fba99759fe223c278ab5c4e4883534bb",
+    "semantic_hash": "fba99759fe223c278ab5c4e4883534bb"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/MessagesReader.kt": {
+    "mtime": 1781355706.1325312,
+    "ast_hash": "8ea0fa8fcf9a0ed5ebfa79fd643cd04d",
+    "semantic_hash": "8ea0fa8fcf9a0ed5ebfa79fd643cd04d"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/MessagesWriter.kt": {
+    "mtime": 1781355706.1326182,
+    "ast_hash": "bf72dbfa132d92e3fd4c14f18cfb9b53",
+    "semantic_hash": "bf72dbfa132d92e3fd4c14f18cfb9b53"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/MessagingCache.kt": {
+    "mtime": 1781355706.1326663,
+    "ast_hash": "f771f50c4214c5f5e621f9f2191e40ad",
+    "semantic_hash": "f771f50c4214c5f5e621f9f2191e40ad"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/NotificationHelper.kt": {
+    "mtime": 1781355706.132757,
+    "ast_hash": "8a8b0db1c6515420d7181b8f3651e397",
+    "semantic_hash": "8a8b0db1c6515420d7181b8f3651e397"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/ReceiverUtils.kt": {
+    "mtime": 1781355706.1328032,
+    "ast_hash": "0df0faba95380f95b52e305dc67ea53e",
+    "semantic_hash": "0df0faba95380f95b52e305dc67ea53e"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/ShortcutHelper.kt": {
+    "mtime": 1781355706.1328802,
+    "ast_hash": "de08160dbd840b193129c0fb2123e91a",
+    "semantic_hash": "de08160dbd840b193129c0fb2123e91a"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/SmsIntentParser.kt": {
+    "mtime": 1781355706.1329322,
+    "ast_hash": "1f0ec9b3a7b2765d0fb45441929357d4",
+    "semantic_hash": "1f0ec9b3a7b2765d0fb45441929357d4"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/helpers/VCardParser.kt": {
+    "mtime": 1781355706.132978,
+    "ast_hash": "75e6e1d427b4d3b27b623613f4b875d7",
+    "semantic_hash": "75e6e1d427b4d3b27b623613f4b875d7"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/interfaces/AttachmentsDao.kt": {
+    "mtime": 1781355706.133042,
+    "ast_hash": "49eef42843877761e93b16610415516e",
+    "semantic_hash": "49eef42843877761e93b16610415516e"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/interfaces/ConversationsDao.kt": {
+    "mtime": 1781355706.133083,
+    "ast_hash": "50ab5d77d23dd9b1539342999bc79c57",
+    "semantic_hash": "50ab5d77d23dd9b1539342999bc79c57"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/interfaces/DraftsDao.kt": {
+    "mtime": 1781355706.1331275,
+    "ast_hash": "c85c9f2311600e7803a7f5368738ff76",
+    "semantic_hash": "c85c9f2311600e7803a7f5368738ff76"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/interfaces/MessageAttachmentsDao.kt": {
+    "mtime": 1781355706.1331725,
+    "ast_hash": "9e63438a8eb84da98a4ef1fc6ab1ef55",
+    "semantic_hash": "9e63438a8eb84da98a4ef1fc6ab1ef55"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/interfaces/MessagesDao.kt": {
+    "mtime": 1781355706.1332517,
+    "ast_hash": "3f17e671761b132ff3716fd76a32ce6d",
+    "semantic_hash": "3f17e671761b132ff3716fd76a32ce6d"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/messaging/Messaging.kt": {
+    "mtime": 1781355706.1333625,
+    "ast_hash": "feedd1e15079098f4c239bf7d798cc9c",
+    "semantic_hash": "feedd1e15079098f4c239bf7d798cc9c"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/messaging/MessagingUtils.kt": {
+    "mtime": 1781355706.1334524,
+    "ast_hash": "baaf9beb0ceec25c74fb86541874be24",
+    "semantic_hash": "baaf9beb0ceec25c74fb86541874be24"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/messaging/ScheduledMessage.kt": {
+    "mtime": 1781355706.1334963,
+    "ast_hash": "a3ae71da6af225d0a2e58fbd1f779d3c",
+    "semantic_hash": "a3ae71da6af225d0a2e58fbd1f779d3c"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/messaging/SmsException.kt": {
+    "mtime": 1781355706.1335409,
+    "ast_hash": "2ef1a261c317c016ee2cb73b9a1659c8",
+    "semantic_hash": "2ef1a261c317c016ee2cb73b9a1659c8"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/messaging/SmsManager.kt": {
+    "mtime": 1781355706.133597,
+    "ast_hash": "069bc43a7ed17a5cb31a15cca5446015",
+    "semantic_hash": "069bc43a7ed17a5cb31a15cca5446015"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/messaging/SmsSender.kt": {
+    "mtime": 1781355706.1336825,
+    "ast_hash": "dcab2f5f13891452fe09d1ba5d5e3df3",
+    "semantic_hash": "dcab2f5f13891452fe09d1ba5d5e3df3"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/ArchivedConversation.kt": {
+    "mtime": 1781355706.1337674,
+    "ast_hash": "cb39c4b53ac3e1d61b38c7437ba3dcb9",
+    "semantic_hash": "cb39c4b53ac3e1d61b38c7437ba3dcb9"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/Attachment.kt": {
+    "mtime": 1781355706.133823,
+    "ast_hash": "5dc1a78daf95b563c2d1ea9f6bfbd018",
+    "semantic_hash": "5dc1a78daf95b563c2d1ea9f6bfbd018"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/AttachmentSelection.kt": {
+    "mtime": 1781355706.1338685,
+    "ast_hash": "ac5d96091549dd2fa34304ae0ed6af79",
+    "semantic_hash": "ac5d96091549dd2fa34304ae0ed6af79"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/BackupType.kt": {
+    "mtime": 1781355706.1339116,
+    "ast_hash": "da620775369e2ff9e0879958885f10c6",
+    "semantic_hash": "da620775369e2ff9e0879958885f10c6"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/Conversation.kt": {
+    "mtime": 1781355706.1339567,
+    "ast_hash": "dab7eb687a7626b86d517be1232e489c",
+    "semantic_hash": "dab7eb687a7626b86d517be1232e489c"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/ConversationWithSnippetOverride.kt": {
+    "mtime": 1781355706.1340046,
+    "ast_hash": "8af38ca9962ebfc2953697eb97410504",
+    "semantic_hash": "8af38ca9962ebfc2953697eb97410504"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/Draft.kt": {
+    "mtime": 1781355706.1340466,
+    "ast_hash": "4c16f6f8fe7e32dc593ac42ec82a9a3e",
+    "semantic_hash": "4c16f6f8fe7e32dc593ac42ec82a9a3e"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/Events.kt": {
+    "mtime": 1781355706.1340852,
+    "ast_hash": "d8625bf46dd38f88ea3b43a12b5b7c89",
+    "semantic_hash": "d8625bf46dd38f88ea3b43a12b5b7c89"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/ExportedMessage.kt": {
+    "mtime": 1781355706.1341257,
+    "ast_hash": "54e5e7a024f28db9f633c6ef0606e3aa",
+    "semantic_hash": "54e5e7a024f28db9f633c6ef0606e3aa"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/ImportResult.kt": {
+    "mtime": 1781355706.1341863,
+    "ast_hash": "7415333a5c58d81c4a4c05cc1c7c71e6",
+    "semantic_hash": "7415333a5c58d81c4a4c05cc1c7c71e6"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/Message.kt": {
+    "mtime": 1781355706.1342437,
+    "ast_hash": "cc4051a19c7b96f4a13101abd70d2ffe",
+    "semantic_hash": "cc4051a19c7b96f4a13101abd70d2ffe"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/MessageAttachment.kt": {
+    "mtime": 1781355706.1342957,
+    "ast_hash": "1dd9178a6e791b236ed9ac46bd08fca3",
+    "semantic_hash": "1dd9178a6e791b236ed9ac46bd08fca3"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/MessagesBackup.kt": {
+    "mtime": 1781355706.1343505,
+    "ast_hash": "7d4f2a4d9eafa3f75d0ee83d769b4a39",
+    "semantic_hash": "7d4f2a4d9eafa3f75d0ee83d769b4a39"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/MmsAddress.kt": {
+    "mtime": 1781355706.1344175,
+    "ast_hash": "49179f79b73156e67aa1cffc6809c9b3",
+    "semantic_hash": "49179f79b73156e67aa1cffc6809c9b3"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/MmsBackup.kt": {
+    "mtime": 1781355706.1344774,
+    "ast_hash": "e1cf047ca2e97e973a8a59d6a1f0e30c",
+    "semantic_hash": "e1cf047ca2e97e973a8a59d6a1f0e30c"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/MmsPart.kt": {
+    "mtime": 1781355706.1345255,
+    "ast_hash": "f88cc3441318ae984792ecdf7f495091",
+    "semantic_hash": "f88cc3441318ae984792ecdf7f495091"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/NamePhoto.kt": {
+    "mtime": 1781355706.1345823,
+    "ast_hash": "fd82fb2291a4ec207f037dbca6679329",
+    "semantic_hash": "fd82fb2291a4ec207f037dbca6679329"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/RecycleBinMessage.kt": {
+    "mtime": 1781355706.1346357,
+    "ast_hash": "2583d7e34f65c8c322033d4b672a99a0",
+    "semantic_hash": "2583d7e34f65c8c322033d4b672a99a0"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/SIMCard.kt": {
+    "mtime": 1781355706.1346836,
+    "ast_hash": "43700cbb5516eb15d11b4c1fdc016670",
+    "semantic_hash": "43700cbb5516eb15d11b4c1fdc016670"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/SearchResult.kt": {
+    "mtime": 1781355706.1347249,
+    "ast_hash": "c480db4692a29bd07ba64f02cd6672a4",
+    "semantic_hash": "c480db4692a29bd07ba64f02cd6672a4"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/SmsBackup.kt": {
+    "mtime": 1781355706.134765,
+    "ast_hash": "957f29e6bf3749d89988f0aae050e64b",
+    "semantic_hash": "957f29e6bf3749d89988f0aae050e64b"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/ThreadItems.kt": {
+    "mtime": 1781355706.1348062,
+    "ast_hash": "882e2307cbd004e2907f26a160566708",
+    "semantic_hash": "882e2307cbd004e2907f26a160566708"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/models/VCard.kt": {
+    "mtime": 1781355706.134854,
+    "ast_hash": "d6de13a2a3129e34fabb323bbbb3ac5e",
+    "semantic_hash": "d6de13a2a3129e34fabb323bbbb3ac5e"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/DeleteSmsReceiver.kt": {
+    "mtime": 1781355706.1349359,
+    "ast_hash": "93789d1aa009fcb9c80b6e57cc951ad4",
+    "semantic_hash": "93789d1aa009fcb9c80b6e57cc951ad4"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/DirectReplyReceiver.kt": {
+    "mtime": 1781355706.1350827,
+    "ast_hash": "45ccf60c2a28a549416957e11248c25d",
+    "semantic_hash": "45ccf60c2a28a549416957e11248c25d"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/MarkAsReadReceiver.kt": {
+    "mtime": 1781355706.1351333,
+    "ast_hash": "3ceb3e0d25bdfe8166102ab5ecd82124",
+    "semantic_hash": "3ceb3e0d25bdfe8166102ab5ecd82124"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/MmsReceiver.kt": {
+    "mtime": 1781355706.1351912,
+    "ast_hash": "6398190ccb13cf6aa2d4da84d77f3eb7",
+    "semantic_hash": "6398190ccb13cf6aa2d4da84d77f3eb7"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/MmsSentReceiver.kt": {
+    "mtime": 1781355706.1352375,
+    "ast_hash": "4b62bd329d4c273fb754e126a3643901",
+    "semantic_hash": "4b62bd329d4c273fb754e126a3643901"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/RescheduleAlarmsReceiver.kt": {
+    "mtime": 1781355706.135283,
+    "ast_hash": "906c389c633c5ba3cc33994807099fa4",
+    "semantic_hash": "906c389c633c5ba3cc33994807099fa4"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/ScheduledMessageReceiver.kt": {
+    "mtime": 1781355706.1353254,
+    "ast_hash": "b06387277fa0fa9f636c1422359e7686",
+    "semantic_hash": "b06387277fa0fa9f636c1422359e7686"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/SendStatusReceiver.kt": {
+    "mtime": 1781355706.1353703,
+    "ast_hash": "8057817e5cb31cb1d928f2e8b0ad3c10",
+    "semantic_hash": "8057817e5cb31cb1d928f2e8b0ad3c10"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/SmsReceiver.kt": {
+    "mtime": 1781355706.1354418,
+    "ast_hash": "3ef943d83705f465a38dc14549caf8bc",
+    "semantic_hash": "3ef943d83705f465a38dc14549caf8bc"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/SmsStatusDeliveredReceiver.kt": {
+    "mtime": 1781355706.1354923,
+    "ast_hash": "81bbae67f689c7b99597590874f3c172",
+    "semantic_hash": "81bbae67f689c7b99597590874f3c172"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/receivers/SmsStatusSentReceiver.kt": {
+    "mtime": 1781355706.1355426,
+    "ast_hash": "0a14dea2df9b4eea1fd81477451e9a65",
+    "semantic_hash": "0a14dea2df9b4eea1fd81477451e9a65"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/kotlin/org/fossify/messages/services/HeadlessSmsSendService.kt": {
+    "mtime": 1781355706.1356082,
+    "ast_hash": "517f8e9111d797acc92866b9b326b1d4",
+    "semantic_hash": "517f8e9111d797acc92866b9b326b1d4"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/kotlin/org/traccar/gateway/GatewayActivity.kt": {
+    "mtime": 1781355706.1512597,
+    "ast_hash": "fa00104ace74004da486b66740cd3f8c",
+    "semantic_hash": "fa00104ace74004da486b66740cd3f8c"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/kotlin/org/traccar/gateway/GatewayMessagingService.kt": {
+    "mtime": 1781355706.1513097,
+    "ast_hash": "80f65c834f9ea60c9e80c9fd4f33ccf0",
+    "semantic_hash": "80f65c834f9ea60c9e80c9fd4f33ccf0"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/kotlin/org/traccar/gateway/GatewayServer.kt": {
+    "mtime": 1781355706.1513612,
+    "ast_hash": "85e76caf165e65462cb20b1c24b359a6",
+    "semantic_hash": "85e76caf165e65462cb20b1c24b359a6"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/kotlin/org/traccar/gateway/GatewayService.kt": {
+    "mtime": 1781355706.1514113,
+    "ast_hash": "8f84f048d996441050f011943a440fae",
+    "semantic_hash": "8f84f048d996441050f011943a440fae"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/kotlin/org/traccar/gateway/GatewayServiceUtil.kt": {
+    "mtime": 1781355706.1514523,
+    "ast_hash": "d6f0762e40c0f818fa749c0b932bf811",
+    "semantic_hash": "d6f0762e40c0f818fa749c0b932bf811"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/build.gradle.kts": {
+    "mtime": 1781355706.1523304,
+    "ast_hash": "ea832c8142356b9e49ff4f6a3220645c",
+    "semantic_hash": "ea832c8142356b9e49ff4f6a3220645c"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/gradlew": {
+    "mtime": 1781355706.152809,
+    "ast_hash": "45bf2667b1fbec0e07e42808dc662b6b",
+    "semantic_hash": "45bf2667b1fbec0e07e42808dc662b6b"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/settings.gradle.kts": {
+    "mtime": 1781355706.1530018,
+    "ast_hash": "215256baa9a6471e9cca6442155005be",
+    "semantic_hash": "215256baa9a6471e9cca6442155005be"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/.github/FUNDING.yml": {
+    "mtime": 1781355706.1267562,
+    "ast_hash": "09f8a1b29c4ceb7950802fb482fa0168",
+    "semantic_hash": "09f8a1b29c4ceb7950802fb482fa0168"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/.github/dependabot.yml": {
+    "mtime": 1781355706.126797,
+    "ast_hash": "6ca8b1c67f2e2151e0ee9261a0956f60",
+    "semantic_hash": "6ca8b1c67f2e2151e0ee9261a0956f60"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/.github/workflows/build.yml": {
+    "mtime": 1781355706.1268623,
+    "ast_hash": "119543fbeb0f01b47e3a053cdfac6241",
+    "semantic_hash": "119543fbeb0f01b47e3a053cdfac6241"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/.github/workflows/release.yml": {
+    "mtime": 1781355706.1268992,
+    "ast_hash": "d5e1f7a7563b560537a9e2d7b462b3b8",
+    "semantic_hash": "d5e1f7a7563b560537a9e2d7b462b3b8"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/README.md": {
+    "mtime": 1781355706.1270828,
+    "ast_hash": "0cc8c8a33bca043dec6e0230b0611f87",
+    "semantic_hash": "0cc8c8a33bca043dec6e0230b0611f87"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/detekt.yml": {
+    "mtime": 1781355706.1523857,
+    "ast_hash": "bd9953eff96b3d1fb35da11f46bc7d48",
+    "semantic_hash": "bd9953eff96b3d1fb35da11f46bc7d48"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/ic_launcher-playstore.png": {
+    "mtime": 1781355706.128213,
+    "ast_hash": "8dab77600a15d5e4e8353614e200763d",
+    "semantic_hash": "8dab77600a15d5e4e8353614e200763d"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/res/drawable-hdpi/ic_messenger.png": {
+    "mtime": 1781355706.1358595,
+    "ast_hash": "e37cc2e0cc8c979d257179aba0138b12",
+    "semantic_hash": "e37cc2e0cc8c979d257179aba0138b12"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/res/drawable-mdpi/ic_messenger.png": {
+    "mtime": 1781355706.1360292,
+    "ast_hash": "3919e56b1ba909a754b1b31d2ed785c7",
+    "semantic_hash": "3919e56b1ba909a754b1b31d2ed785c7"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/res/drawable-xhdpi/ic_messenger.png": {
+    "mtime": 1781355706.136095,
+    "ast_hash": "cd1e3f2006bd8e24e61e7d0093655e9e",
+    "semantic_hash": "cd1e3f2006bd8e24e61e7d0093655e9e"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/res/drawable-xxhdpi/ic_messenger.png": {
+    "mtime": 1781355706.1361513,
+    "ast_hash": "350b2a6cebe1cfe12074a6dd2769cbec",
+    "semantic_hash": "350b2a6cebe1cfe12074a6dd2769cbec"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/main/res/drawable-xxxhdpi/ic_messenger.png": {
+    "mtime": 1781355706.1362107,
+    "ast_hash": "5a9db50578cf92a3ae47cc7a78ea5de7",
+    "semantic_hash": "5a9db50578cf92a3ae47cc7a78ea5de7"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/ic_launcher-playstore.png": {
+    "mtime": 1781355706.1511073,
+    "ast_hash": "40ac30abb84dcdf0b69c1ee729b7f1f8",
+    "semantic_hash": "40ac30abb84dcdf0b69c1ee729b7f1f8"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/res/mipmap-hdpi/ic_launcher.png": {
+    "mtime": 1781355706.151775,
+    "ast_hash": "c281cd0676d6c9f6b4d826c43c830a7e",
+    "semantic_hash": "c281cd0676d6c9f6b4d826c43c830a7e"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/res/mipmap-mdpi/ic_launcher.png": {
+    "mtime": 1781355706.1518447,
+    "ast_hash": "6eea699305d1c699c535535dea73bea2",
+    "semantic_hash": "6eea699305d1c699c535535dea73bea2"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/res/mipmap-xhdpi/ic_launcher.png": {
+    "mtime": 1781355706.1519158,
+    "ast_hash": "e977e73b840365f6a6328405bfaf0f33",
+    "semantic_hash": "e977e73b840365f6a6328405bfaf0f33"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/res/mipmap-xxhdpi/ic_launcher.png": {
+    "mtime": 1781355706.1520138,
+    "ast_hash": "bc8436c680ebf00c9d1508fead9c1d8c",
+    "semantic_hash": "bc8436c680ebf00c9d1508fead9c1d8c"
+  },
+  "/Users/rizal/develop/jasa-gps/_references/traccar-sms-gateway/app/src/traccar/res/mipmap-xxxhdpi/ic_launcher.png": {
+    "mtime": 1781355706.1521258,
+    "ast_hash": "725dfc60690f0e5a3c705c46d6140174",
+    "semantic_hash": "725dfc60690f0e5a3c705c46d6140174"
+  }
+}
